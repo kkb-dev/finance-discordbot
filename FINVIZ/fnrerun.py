@@ -2,7 +2,7 @@ import datetime, ast, sys
 import fndatareader, finviz
 
 
-# Complete data, best used when FINVIZ is run with low bandwidth
+# Complete data, best used when FINVIZ is run with low bandwidth.
 def rerun():
     d = datetime.datetime.now()
     d = d.strftime('%Y%m%d')
