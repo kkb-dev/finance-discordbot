@@ -1,13 +1,13 @@
 # finance-discordbot
 Python - Financial Webscraper + Discord Bot
 
-fndiscord
-Launch discord bot, log in
-import config.py
+1.fndiscord
+-Launch discord bot, log in
+-import config.py
   -get configuration settings
   
-Run background task to loop
-Check current time against configuration setting, post time.
+2.Run background task to loop
+-Check current time against configuration setting, post time.
   -20 second interval
   
 If current time matches post time & Not a weekend or holiday.
