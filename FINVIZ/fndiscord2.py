@@ -1,6 +1,6 @@
 import discord, datetime, asyncio, sys
 import fnalerts, fnexcel, fnrerun, fnconcurrent
-
+# Updated verison, Linux only. (Concurrency doesn't fork correctly on Windows)
 from config import config
 
 def timestamp():
