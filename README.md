@@ -30,4 +30,4 @@ If current time matches post time & Not a weekend or holiday.
     Convert master text file into an excel file
   
   Use data from alerts.py to post to discord (Discord channels directed by configuration settings)
-  Sleep for 1 hour. 
+  Sleep for 1 hour.
