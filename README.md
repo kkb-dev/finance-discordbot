@@ -1,16 +1,15 @@
 # finance-discordbot
 Python - Financial Webscraper + Discord Bot
 
-1. fndiscord
 - Launch discord bot, log in
 - import config.py
   - get configuration settings
   
-2. Run background task to loop
+Run background task to loop
 Check current time against configuration setting, post time.
   - 20 second interval
   
-3. If current time matches post time & Not a weekend or holiday.
+If current time matches post time & Not a weekend or holiday.
   - Run concurrent.py
     - Asynch multiprocessing webscrape script
     - Create workers to asynchronously webscrape data from finviz.com
