@@ -8,6 +8,7 @@ Python - Financial Webscraper + Discord Bot
   
 2.Run background task to loop
 -Check current time against configuration setting, post time.
+
   -20 second interval
   
 If current time matches post time & Not a weekend or holiday.
