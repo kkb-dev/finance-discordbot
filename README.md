@@ -5,7 +5,7 @@ Python - Financial Webscraper + Discord Bot
 - import config.py
   - get configuration settings
   
-Run background task to loop
+Run background task to loop.
 Check current time against configuration setting, post time.
   - 20 second interval
   
