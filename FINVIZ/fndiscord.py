@@ -187,7 +187,7 @@ class MyClient(discord.Client):
 
 try:
     client = MyClient()
-    client.run('NzAxMTIxNTg0Nzk4MTA1NzQx.Xps4ww.F2xpsM8fu7Rxr39kHgyMhf3uMgE')
+    client.run('')
 except Exception as e:
     print(e)
 
